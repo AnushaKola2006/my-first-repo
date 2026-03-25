@@ -1,0 +1,5 @@
+Name: Anusha Kola
+Course: BSc Computer Science
+
+What I learned about GitHub:
+I learned that GitHub is a platform used to store and manage code online. It helps in tracking changes through commits and allows easy collaboration. I also learned how to create repositories, upload files, edit them, and view commit history.
